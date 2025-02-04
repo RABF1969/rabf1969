@@ -4,7 +4,7 @@ Antônio Ferreira – Desenvolvedor Full Stack em formação
 
 🚀 Atualmente estudando: DevClub Full Stack
 
-💻 Tecnologias: HTML, CSS, JavaScript, Node.js, React
+💻 Tecnologias: HTML, CSS, JavaScript, Node.js, TypeScript e React
 
 🌐 Experiência: Criação de sites com WordPress e Elementor
 

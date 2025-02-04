@@ -6,4 +6,4 @@
 
 📚 Atualmente estudando na DevClub Full Stack
 
-Tecnologias aprendidas: HTML, CSS, JavaScript e React
+Tecnologias aprendidas: HTML, CSS, JavaScript, NodeJS e React

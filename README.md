@@ -4,5 +4,6 @@
 
 🚀 Apaixonado por tecnologia, aprendizado contínuo e colaboração.
 
-📫 Vamos trocar uma ideia? Me chama aqui no LinkedIn ou por e-mail!
+📫 Vamos trocar uma ideia? [Me chama no LinkedIn](https://www.linkedin.com/in/aantonio-ferreiraa/) ou envie um e-mail para [rabf44@gmail.com](mailto:rabf44@gmail.com)!
+
 

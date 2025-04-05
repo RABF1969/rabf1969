@@ -1,14 +1,8 @@
-Antônio Ferreira – Desenvolvedor Full Stack em formação
+### 👋 Olá! Sou Desenvolvedor Front End focado em criar soluções modernas com HTML, CSS, JavaScript, TypeScript e React.
 
-🎓 Formação: Análise e Desenvolvimento de Sistemas
+🎯 Em constante evolução para atuar como Full Stack, contribuindo com projetos de impacto e código de qualidade.
 
-🚀 Atualmente estudando: DevClub Full Stack
+🚀 Apaixonado por tecnologia, aprendizado contínuo e colaboração.
 
-💻 Tecnologias: HTML, CSS, JavaScript, Node.js, TypeScript e React
+📫 Vamos trocar uma ideia? Me chama aqui no LinkedIn ou por e-mail!
 
-🌐 Experiência: Criação de sites com WordPress e Elementor
-
-Apaixonado por tecnologia e desenvolvimento web, estou sempre buscando aprimorar minhas habilidades e acompanhar as tendências do mercado.
-Meu foco é me tornar um desenvolvedor Full Stack completo, criando soluções eficientes e intuitivas.
-
-📩 Vamos conectar!
